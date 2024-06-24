@@ -11,7 +11,7 @@ Este projeto implementa um sistema de alerta de preço de ações que monitora a
 
 ## Pré-requisitos
 
-- Python 3.x
+- Python 3.12
 - Bibliotecas Python: `requests`, `smtplib`
 - Conta na Alpha Vantage (para a chave de API) e na News API (para a chave de API).
 
